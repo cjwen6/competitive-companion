@@ -8,6 +8,8 @@ export class UOJProblemParser extends Parser {
     'uoj.ac': 'UOJ',
     'pjudge.ac': 'Public Judge',
     'oj.daimayuan.top': 'Daimayuan Online Judge',
+    '119.28.3.174': 'NOI AC',
+    'noi.ac': 'NOI AC',
   };
 
   public getMatchPatterns(): string[] {
